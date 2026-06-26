@@ -47,15 +47,11 @@ ARQUITECTURA DEL SISTEMA
        CAPA DE PRESENTACION          
    Interfaz grafica con Tkinter      
    Canvas, Labels, Ventana           
-               |
-               |
-               |
+
        CAPA LOGICA DEL JUEGO        
    Gameloop, Gestor Movimiento      
    Detector Colisiones, Puntaje     
-               |
-               |
-               |
+          
        CAPA DE DATOS Y ESTADO       
    Posiciones, Dirección            
    Velocidad, Puntaje, Comida       
