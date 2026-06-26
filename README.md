@@ -76,7 +76,7 @@ Unidad 4 - Funciones y modularidad
 TECNOLOGIAS UTILIZADAS
 
 - Lenguaje       : Python
-- Librería graf. : Tkinter
+- Motor Grafico  : Tkinter
 
 
 CONTROLES DEL JUEGO
