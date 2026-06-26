@@ -8,6 +8,12 @@ INTEGRANTE
 Juan Brayson Gomez Zuñiga
 
 
+Introducción
+
+La tecnología ha transformado la manera en que las personas interactúan con el mundo digital, y la programación es una de las herramientas fundamentales que hace posible ese cambio. En el ámbito educativo, el desarrollo de software permite a los estudiantes aplicar de forma práctica los conocimientos teóricos adquiridos en el aula, fortaleciendo habilidades como el pensamiento lógico, la resolución de problemas y la organización del trabajo.
+El presente proyecto consiste en el desarrollo de un videojuego funcional basado en el clásico juego de la serpiente, implementado en el lenguaje de programación Python utilizando la librería gráfica Tkinter. Este juego, ampliamente reconocido por su sencillez y lógica clara, representa un escenario ideal para aplicar conceptos de programación como estructuras condicionales, bucles repetitivos, funciones y organización modular del código.
+
+
 OBJETIVO DEL SISTEMA
 
 Desarrollar un videojuego funcional de la serpiente (Snake)
@@ -85,6 +91,17 @@ CONTROLES DEL JUEGO
   Enter                          -> Iniciar / Reiniciar partida
   P                              -> Pausar / Reanudar
   Esc                            -> Salir del juego
+
+
+CRONOGRAMA DE ACTIVIDADES
+
+Semana 1 -> Definicion del problema y alcance del proyecto
+Semana 2 -> Planificacion y cronograma de actividades
+Semana 3 -> Elaboracion del diagrama de casos de uso
+Semana 4 -> Elaboracion del diagrama de flujo
+Semana 5 -> Diseno de la arquitectura del sistema
+Semana 6 -> Desarrollo del codigo
+Semana 7 -> Desarrollo completo, pruebas, correcciones y entrega
 
 
 REFLEXION
