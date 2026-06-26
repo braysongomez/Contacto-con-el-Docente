@@ -96,11 +96,17 @@ CONTROLES DEL JUEGO
 CRONOGRAMA DE ACTIVIDADES
 
 Semana 1 -> Definicion del problema y alcance del proyecto
+
 Semana 2 -> Planificacion y cronograma de actividades
+
 Semana 3 -> Elaboracion del diagrama de casos de uso
+
 Semana 4 -> Elaboracion del diagrama de flujo
+
 Semana 5 -> Diseno de la arquitectura del sistema
+
 Semana 6 -> Desarrollo del codigo
+
 Semana 7 -> Desarrollo completo, pruebas, correcciones y entrega
 
 
